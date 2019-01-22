@@ -1,0 +1,7 @@
+[package]
+name = "wallpaper-changer"
+version = "0.1.0"
+authors = ["Gustavo Murayama <gmurayama@outlook.com>"]
+edition = "2018"
+
+[dependencies]
