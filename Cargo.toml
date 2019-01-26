@@ -5,3 +5,5 @@ authors = ["Gustavo Murayama <gmurayama@outlook.com>"]
 edition = "2018"
 
 [dependencies]
+wallpaper = { git = "https://github.com/gmurayama/wallpaper.rs" }
+chrono = "0.4"
