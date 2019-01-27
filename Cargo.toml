@@ -1,9 +1,11 @@
 [package]
 name = "wallpaper-changer"
 version = "0.1.0"
-authors = ["Gustavo Murayama <gmurayama@outlook.com>"]
+authors = ["Gustavo Murayama <gmurayama@outlook.com>",
+            "Lucas Tornai <lucas.tornai00@gmail.com>]
 edition = "2018"
 
 [dependencies]
 wallpaper = { git = "https://github.com/gmurayama/wallpaper.rs" }
 chrono = "0.4"
+structopt = { version = "0.2", default-features = false }
